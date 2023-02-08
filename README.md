@@ -13,6 +13,7 @@ Thanks for checking out this 30-days of JavaScript coding challenge.
 - Day 08 - [Fun With HTML5 Canvas6](https://www.desmondfon.io)
 - Day 09 - [Dev Tools Domination](https://www.desmondfon.io)
 - Day 10 - [Hold Shift and Check Checkboxes](https://www.desmondfon.io)
+- Day 11 - [Custom Video Player](https://www.desmondfon.io)
 
 ## The Author
 - LinkedIn - [@desmond](https://www.linkedin.com/in/desmond-fon-88aa88253)
