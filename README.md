@@ -17,6 +17,7 @@ Thanks for checking out this 30-days of JavaScript coding challenge.
 - Day 12 - [Key Sequence Detection](https://www.desmondfon.io)
 - Day 13 - [Slide in on scroll](https://www.desmondfon.io)
 - Day 14 - [Javascript Copying VS References](https://www.desmondfon.io)
+- Day 15 - [LocalStorage](https://www.desmondfon.io)
 
 ## The Author
 - LinkedIn - [@desmond](https://www.linkedin.com/in/desmond-fon-88aa88253)
