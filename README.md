@@ -15,6 +15,7 @@ Thanks for checking out this 30-days of JavaScript coding challenge.
 - Day 10 - [Hold Shift and Check Checkboxes](https://www.desmondfon.io)
 - Day 11 - [Custom Video Player](https://www.desmondfon.io)
 - Day 12 - [Key Sequence Detection](https://www.desmondfon.io)
+- Day 13 - [Slide in on scroll](https://www.desmondfon.io)
 
 ## The Author
 - LinkedIn - [@desmond](https://www.linkedin.com/in/desmond-fon-88aa88253)
